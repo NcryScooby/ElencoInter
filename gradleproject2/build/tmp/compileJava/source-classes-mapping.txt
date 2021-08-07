@@ -1,4 +1,0 @@
-gradleproject2/Main.java
- gradleproject2.Main
-gradleproject2/Times.java
- gradleproject2.Times
